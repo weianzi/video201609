@@ -28,38 +28,22 @@ $(function() {
 });
 var data = [
     [{
-        title: '11',
-        video: 'http://obditc4t5.bkt.clouddn.com/full.mp4',
-        poster: 'http://v11.pfs.56img.com/images/27/5/qq987564321i56olo56i56.com_141300459978hd_m.jpg',
-    }, {
-        title: 'XXX',
-        video: 'http://obditc4t5.bkt.clouddn.com/full.mp4',
-        poster: 'http://v11.pfs.56img.com/images/27/5/qq987564321i56olo56i56.com_141300459978hd_m.jpg',
-    }, {
-        title: 'XXX',
-        video: 'http://obditc4t5.bkt.clouddn.com/full.mp4',
-        poster: 'http://v11.pfs.56img.com/images/27/5/qq987564321i56olo56i56.com_141300459978hd_m.jpg',
+        title: 'video-2016-03-22-09-00-55',
+        video: 'http://7xt0ex.com1.z0.glb.clouddn.com/video-2016-03-22-09-00-55.mp4',
+        poster: '',
     }],
     [{
-        title: '2222',
-        video: 'http://obditc4t5.bkt.clouddn.com/full.mp4',
-        poster: 'http://v11.pfs.56img.com/images/27/5/qq987564321i56olo56i56.com_141300459978hd_m.jpg',
+        title: 'video-2016-03-22-09-05-50',
+        video: 'http://7xt0ex.com1.z0.glb.clouddn.com/video-2016-03-22-09-05-50.mp4',
+        poster: '',
     }, {
-        title: '222222',
-        video: 'http://obditc4t5.bkt.clouddn.com/full.mp4',
-        poster: 'http://v11.pfs.56img.com/images/27/5/qq987564321i56olo56i56.com_141300459978hd_m.jpg',
-    }, {
-        title: '22222',
-        video: 'http://obditc4t5.bkt.clouddn.com/full.mp4',
-        poster: 'http://v11.pfs.56img.com/images/27/5/qq987564321i56olo56i56.com_141300459978hd_m.jpg',
+        title: 'video-2016-03-22-09-08-40',
+        video: 'http://7xt0ex.com1.z0.glb.clouddn.com/video-2016-03-22-09-08-40.mp4',
+        poster: '',
     }],
     [{
-        title: '33',
-        video: 'http://obditc4t5.bkt.clouddn.com/full.mp4',
-        poster: 'http://v11.pfs.56img.com/images/27/5/qq987564321i56olo56i56.com_141300459978hd_m.jpg',
-    }, {
-        title: '33',
-        video: 'http://obditc4t5.bkt.clouddn.com/full.mp4',
-        poster: 'http://v11.pfs.56img.com/images/27/5/qq987564321i56olo56i56.com_141300459978hd_m.jpg',
+        title: 'video-2016-03-22-09-12-37',
+        video: 'http://7xt0ex.com1.z0.glb.clouddn.com/video-2016-03-22-09-12-37.mp4',
+        poster: '',
     }]
 ];
